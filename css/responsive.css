@@ -1,0 +1,1151 @@
+@media (max-width: 575.98px) {
+
+    .portfolio .tab-content .portfolio-img-div img{
+        object-fit: cover !important;
+    }
+    .left-fixed{
+        display: none !important;
+    }
+    .about-btn-div{
+        text-align: center;
+        padding-top: 10px;
+    }
+    .navbar{
+        background: #121318;
+        border: 1px solid #fff;
+        padding-left: 60px !important;
+        padding-top: 10px !important;
+        padding-bottom: 10px !important;
+    }
+    .hero-text h1{
+        padding-left: 0px !important;
+    }
+    .hero-text p{
+        padding-left: 0px !important;
+    }
+    .logo-class{
+        top: 18px !important;
+    }
+    .navbar-nav{
+        padding-top: 30px !important;
+    }
+    .navbar-nav .nav-link{
+        font-size: 18px !important;
+        padding-bottom: 10px !important;
+    }
+    .nav.nav-pills{
+        margin: 0 auto;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+    }
+    .what-we-do-right.quality ul li{
+        height: 60px !important;
+    }
+    .what-we-do-right.quality ul li:nth-child(2) {
+        margin-left: 0px !important;
+        margin: 0 auto !important;
+    }
+    .what-we-do-right.quality ul li:nth-child(3) {
+        margin-left: 0px !important;
+        margin: 20px auto !important;
+    }
+    .col-lg-6.offset-1{
+        margin: 0 !important;
+    }
+    .hero-text h1{
+        font-size: 45px !important;
+        line-height: 50px !important;
+    }
+    .what-we-do-right.quality ul li{
+        width: 100% !important;
+    }
+    .hero-text p {
+        font-size: 20px !important;
+        line-height: 25px !important;
+        max-width: 100% !important;
+        padding-top: 0px !important;
+    }
+    p {
+        font-size: 16px !important;
+        line-height: 25px !important;
+        max-width: 100% !important;
+        padding-top: 0px !important;
+    }
+    nav .navbar-brand img {
+        height: 40px !important;
+        padding-left: 0px !important;
+    }
+    .logo-class img{
+        height: 40px !important;
+    }
+    .hero-section{
+        height: auto !important;
+        background-position: top !important;
+    background-size: cover !important;
+    border-bottom: 5px solid #fff !important;
+    }
+    section {
+        padding: 40px 10px !important;
+    }
+    .hero-text{
+    padding-top: 180px !important;
+    }
+    .about-img-main .about-img-up {
+        margin-right: 0px !important;
+        margin-bottom: 20px !important;
+    }
+    .heading h1 {
+        font-size: 20px !important;
+        line-height: 30px !important;
+        max-width: 100% !important;
+        padding-top: 5px !important;
+        padding-bottom: 0px !important;
+    }
+    .heading h1 br{
+        display: none !important;
+    }
+
+    .quality ul li h3 {
+        margin-bottom: 0 !important;
+        padding-left: 7px !important;
+        font-size: 15px !important;
+    }
+    .quality ul{
+
+        padding-top: 0 !important;
+        padding-bottom: 0 !important;
+    }
+    .heading{
+        text-align: center;
+    }
+    .quality ul li{
+        margin-bottom: 20px !important;
+    width: 50%;
+    padding: 0px !important;
+    justify-content: center;
+    }
+    .quality ul li img{
+      height: 25px !important;
+    }
+    .btn-primary {
+        border-radius: 10px !important;
+        padding: 13px 26px !important;
+        font-size: 15px !important;
+    }
+    .btn-secondary {
+        border-radius: 10px !important;
+        padding: 13px 26px !important;
+        font-size: 15px !important;
+    }
+    .about-btn-div .btn-secondary.ml-40{
+        margin-left: 10px !important;
+    }
+    .divider img{
+        height: 15px;
+        object-fit: cover;
+    }
+    .main-heading h1{
+        font-size: 45px !important;
+    }
+    .main-heading h5{
+        font-size: 15px !important;
+    }
+    .main-heading.mb-70{
+        margin-bottom: 30px !important;
+    }
+    .what-we-do-right.quality ul li {
+        border-radius: 10px !important;
+        justify-content: left !important;
+        /* padding-left: 20px !important; */
+        justify-content: center !important;
+        width: 75% !important;
+        margin: 0 auto;
+    }
+    .what-i-do{
+        padding-bottom: 0 !important;
+    }
+    .portfolio .col-lg-6.d-flex{
+        order: 1;
+    }
+    .portfolio .col-lg-12{
+        order: 2;
+    }
+    .portfolio .mb-70 {
+        margin-bottom: 30px;
+    }
+    .portfolio .nav .nav-item:nth-child(2),
+    .portfolio .nav .nav-item:nth-child(4){
+        margin: 0px 0px 20px 10px !important;
+
+    }
+    .portfolio .tab-content{
+        margin-top: 0 !important;
+    }
+    .portfolio .tab-content .portfolio-img-div{
+        width: calc(100% - 30px) !important;
+        margin: 8px 15px !important;
+    }
+    .portfolio .tab-content{
+        padding: 0 !important;
+    }
+    .portfolio .tab-content .portfolio-img-div{
+        height: 250px !important;
+    }
+    .portfolio .nav .nav-item {
+        margin: 0px 10px 20px 0px !important;
+        width: calc(50% - 10px) !important;
+
+    }
+    .portfolio .nav .nav-item .nav-link{
+        width: 100% !important;
+    }
+    .img-placeholder{
+        width: 90% !important;
+        height: 35% !important;
+    }
+    .img-placeholder i {
+        height: 40px !important;
+        right: -10px !important;
+        top: -10px !important;
+        width: 40px !important;
+    }
+    section#hero-section:before {
+        position: absolute;
+        content: "";
+        top: 0;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        background: black;
+        opacity: 0.5;
+        z-index: -1;
+    }
+    .testimonials .mb-70{
+        margin-bottom: 30px !important;
+    }
+    .display-desktop{
+        display: none !important;
+      }
+      .display-mobile{
+        display: block !important;
+      }
+      form .display-desktop{
+        display: none !important;
+      }
+      .t-div.two{
+        margin-top: 0 !important;
+      }
+      .t-div .t-up {
+        height: 110px !important;
+        border-radius: 20px !important;
+        padding: 15px !important;
+        padding-top: 5px !important;
+        padding-bottom: 0 !important;
+    }
+    .t-div .t-up-left {
+        padding-top: 5px !important;
+    }
+    .t-div .t-up-left h4 {
+        font-size: 16px !important;
+        margin-bottom: 0px !important;
+    }
+    .t-div .t-up-right{
+        width: 100px !important;
+    }
+    .t-div .t-up-left span {
+        font-size: 13px !important;
+    }
+    .t-div .t-down{
+        padding: 15px !important;
+    }
+    .t-div{
+        height: 250px !important;
+        margin: 0 auto;
+    }
+    .testimonials {
+        padding-bottom: 80px !important;
+    }
+    .owl-theme .owl-dots {
+        top: 250px !important;
+        transform: translate(-50%, 50%);
+        left: 50% !important;
+        width: 100% !important;
+    }
+    .contactus .mb-70{
+        margin-bottom: 30px !important;
+    }
+    .contact-bg{
+        height: 400px !important;
+        background-size: contain !important;
+        margin-bottom: 30px;
+    }
+    form .form-control {
+        height: 60px !important;
+        background: #FFFFFF;
+        border-radius: 10px;
+        padding: 13px !important;
+        line-height: 0 !important;
+        margin-bottom: 15px !important;
+    }
+    form #commentform {
+        height: 100px !important;
+        border-radius: 10px !important;
+        margin-bottom: 15px !important;
+    }
+    form .btn{
+        width: 100% !important;
+    }
+    footer .d-flex{
+        display: block !important;
+    }
+    footer {
+        padding: 15px 0 !important;
+    }
+    footer ul li i{
+        font-size: 25px !important;
+    }
+    footer ul li a img{
+        height: 25px !important;
+        width: auto;
+    }
+    footer ul li:nth-child(2) i {
+        margin: 0px 10px !important;
+    }
+    footer span {
+        font-size: 15px !important;
+        padding-bottom: 10px !important;
+        display: block !important;
+    }
+    footer ul{
+        justify-content: center;
+        padding-left: 0 !important;
+    }
+    footer .d-flex.justify-content-between{
+        text-align: center !important;
+    }
+    .hero-section{
+        padding-bottom: 100px !important;
+    }
+
+ }
+
+@media (min-width: 576px) and (max-width: 768.98px) {
+        .left-fixed{
+            display: block !important;
+            width: 60px !important;
+            height: 64vh !important;
+            border-bottom: 0px solid #fff !important;
+            z-index: 9 !important;
+        }
+        .social-links::before{
+            top: 65px !important;
+        }
+        .social-links{
+            padding-top: 100px !important;
+        }
+        .navbar{
+            background: #121318;
+            padding-left: 60px !important;
+            padding-top: 10px !important;
+            padding-bottom: 10px !important;
+        }
+        .logo-class{
+            z-index: 999 !important;
+        }
+        .hero-text h1{
+            padding-left: 0px !important;
+        }
+        .hero-text p{
+            padding-left: 0px !important;
+        }
+        .logo-class{
+            top: 18px !important;
+            left: 11px !important;
+
+        }
+        .navbar-nav{
+            padding-top: 30px !important;
+        }
+        .navbar-nav .nav-link{
+            font-size: 18px !important;
+            padding-bottom: 10px !important;
+        }
+        .nav.nav-pills{
+            margin: 0 auto;
+            justify-content: center;
+            align-items: center;
+            display: flex;
+        }
+        .what-we-do-right.quality ul li{
+            height: 60px !important;
+        }
+        .what-we-do-right.quality ul li:nth-child(2) {
+            margin-left: 0px !important;
+            margin: 0 auto !important;
+            margin-bottom: 20px !important;
+        }
+        .what-we-do-right.quality ul li:nth-child(3) {
+            margin-left: 0px !important;
+            margin: 0 auto !important;
+            margin-bottom: 40px !important;
+        }
+        .col-lg-6.offset-1{
+            margin: 0 !important;
+        }
+        .hero-text h1{
+            font-size: 45px !important;
+            line-height: 50px !important;
+            padding-left: 80px !important;
+        }
+        .what-we-do-right.quality ul li{
+            width: 100% !important;
+        }
+        .hero-text p {
+            font-size: 20px !important;
+            line-height: 25px !important;
+            max-width: 500px !important;
+            padding-top: 0px !important;
+            padding-left: 80px !important;
+        }
+        .social-links{
+            font-size: 17px !important;
+            line-height: 22px !important;
+        }
+        p {
+            font-size: 16px !important;
+            line-height: 25px !important;
+            max-width: 100% !important;
+            padding-top: 0px !important;
+        }
+        nav .navbar-brand img {
+            height: 40px !important;
+            padding-left: 30px !important;
+        }
+        .logo-class img{
+            height: 40px !important;
+        }
+        .hero-section{
+            height: auto !important;
+            background-position: top !important;
+        background-size: cover !important;
+        border-bottom: 5px solid #fff !important;
+        }
+        section {
+            padding: 40px 10px !important;
+        }
+        .hero-text{
+        padding-top: 180px !important;
+        }
+        .about-img-main .about-img-up {
+            margin-right: 0px !important;
+            /* margin-bottom: 20px !important; */
+        }
+        .heading{
+            text-align: center;
+        }
+        .about-us .heading{
+            text-align: left;
+        }
+        .heading h1 br{
+            display: none;
+        }
+        .heading h1 {
+            font-size: 22px !important;
+            line-height: 30px !important;
+            max-width: 100% !important;
+            padding-top: 5px !important;
+            padding-bottom: 0px !important;
+        }
+        .quality ul li h3 {
+            margin-bottom: 0 !important;
+            padding-left: 10px !important;
+            font-size: 16px !important;
+        }
+        .quality ul{
+            margin-top: 20px !important;
+            padding-top: 0 !important;
+            padding-bottom: 0 !important;
+        }
+        .quality ul li{
+            margin-bottom: 20px !important;
+        width: 50%;
+        padding: 0px !important;
+        }
+        .quality ul li img{
+          height: 20px !important;
+        }
+        .about-us{
+            padding: 40px 20px !important;
+        }
+        .btn-primary {
+            border-radius: 10px !important;
+            padding: 13px 26px !important;
+            font-size: 15px !important;
+        }
+        .btn-secondary {
+            border-radius: 10px !important;
+            padding: 13px 26px !important;
+            font-size: 15px !important;
+        }
+        .about-btn-div .btn-secondary.ml-40{
+            margin-left: 10px !important;
+        }
+        .divider img{
+            height: 15px;
+            object-fit: cover;
+        }
+        .main-heading h1{
+            font-size: 45px !important;
+        }
+        .main-heading h5{
+            font-size: 15px !important;
+        }
+        .main-heading.mb-70{
+            margin-bottom: 30px !important;
+        }
+        .what-we-do-right.quality ul li {
+            border-radius: 10px !important;
+            justify-content: left !important;
+            padding-left: 20px !important;
+            width: 50% !important;
+            margin: 0 auto;
+        }
+        .what-i-do{
+            padding-bottom: 0 !important;
+        }
+        .portfolio .col-lg-6.d-flex{
+            order: 1;
+        }
+        .portfolio .col-lg-12{
+            order: 2;
+        }
+        .portfolio .mb-70 {
+            margin-bottom: 30px;
+        }
+        .portfolio .nav .nav-item:nth-child(2),
+        .portfolio .nav .nav-item:nth-child(4){
+            margin: 0px 0px 20px 10px !important;
+
+        }
+        .portfolio .tab-content{
+            margin-top: 0 !important;
+        }
+        .portfolio .tab-content .portfolio-img-div{
+            width: calc(50% - 18px) !important;
+            margin: 8px 9px !important;
+        }
+        .portfolio .tab-content{
+            padding: 0 !important;
+        }
+        .portfolio .tab-content .portfolio-img-div{
+            height: 180px !important;
+        }
+        .portfolio .nav .nav-item {
+            margin: 0px 10px 20px 0px !important;
+            width: calc(50% - 10px) !important;
+
+        }
+        .portfolio .nav .nav-item .nav-link{
+            width: 100% !important;
+        }
+        .img-placeholder{
+            width: 90% !important;
+            height: 35% !important;
+        }
+        .img-placeholder i {
+            height: 40px !important;
+            right: -10px !important;
+            top: -10px !important;
+            width: 40px !important;
+        }
+        section#hero-section:before {
+            position: absolute;
+            content: "";
+            top: 0;
+            width: 100%;
+            height: 100%;
+            left: 0;
+            background: black;
+            opacity: 0.5;
+            z-index: -1;
+        }
+        .testimonials .mb-70{
+            margin-bottom: 30px !important;
+        }
+          .testimonials .display-desktop{
+            display: none !important;
+          }
+          .testimonials .display-mobile{
+            display: block !important;
+          }
+          form .display-desktop{
+            display: none !important;
+          }
+          .t-div.two{
+            margin-top: 0 !important;
+          }
+          .t-div .t-up {
+            height: 110px !important;
+            border-radius: 20px !important;
+            padding: 15px !important;
+            padding-top: 5px !important;
+            padding-bottom: 0 !important;
+        }
+        .t-div .t-up-left {
+            padding-top: 5px !important;
+        }
+        .t-div .t-up-left h4 {
+            font-size: 16px !important;
+            margin-bottom: 0px !important;
+        }
+        .t-div .t-up-right{
+            width: 100px !important;
+        }
+        .t-div .t-up-left span {
+            font-size: 13px !important;
+        }
+        .t-div .t-down{
+            padding: 15px !important;
+        }
+        .t-div{
+            height: 250px !important;
+            margin: 0 auto !important;
+        }
+        .testimonials {
+            padding-bottom: 80px !important;
+        }
+        .owl-theme .owl-dots {
+            top: 250px !important;
+            transform: translate(-50%, 50%);
+            left: 50% !important;
+            width: 100% !important;
+        }
+        .contactus .mb-70{
+            margin-bottom: 30px !important;
+        }
+        .contact-bg{
+            height: 400px !important;
+            background-size: contain !important;
+            margin-bottom: 30px;
+        }
+        form .form-control {
+            height: 60px !important;
+            background: #FFFFFF;
+            border-radius: 10px;
+            padding: 13px !important;
+            line-height: 0 !important;
+            margin-bottom: 15px !important;
+        }
+        form #commentform {
+            height: 100px !important;
+            border-radius: 10px !important;
+            margin-bottom: 15px !important;
+        }
+        form .btn{
+            width: 100% !important;
+        }
+        footer .d-flex{
+            display: block !important;
+        }
+        footer {
+            padding: 15px 0 !important;
+        }
+        footer ul li i{
+            font-size: 25px !important;
+        }
+        footer ul li a img{
+            height: 25px !important;
+            width: auto;
+        }
+        footer ul li:nth-child(2) i {
+            margin: 0px 10px !important;
+        }
+        footer span {
+            font-size: 15px !important;
+            padding-bottom: 10px !important;
+            display: block !important;
+        }
+        footer ul{
+            justify-content: center;
+            padding-left: 0 !important;
+        }
+        footer .d-flex.justify-content-between{
+            text-align: center !important;
+        }
+        .hero-section{
+            padding-bottom: 100px !important;
+        }
+        .about-us .col-lg-5.col-sm-6{
+            margin: auto;
+        }
+
+ }
+ @media (min-width: 768px) and (max-width: 991.98px) {
+    .nav.nav-pills{
+        flex-wrap: nowrap !important;
+        width: 100% !important;
+    }
+    .left-fixed{
+        display: block !important;
+        width: 60px !important;
+        height: 75vh !important;
+        border-bottom: 5px solid #fff !important;
+        z-index: 9 !important;
+    }
+    .social-links::before{
+        top: 65px !important;
+    }
+    .social-links{
+        padding-top: 130px !important;
+    }
+    .col-lg-6.col-sm-6.offset-1{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .hero-section{
+    height: 75vh !important;
+    }
+    .navbar{
+        background: #121318;
+        padding-left: 60px !important;
+        padding-top: 10px !important;
+        padding-bottom: 10px !important;
+    }
+    .hero-text h1{
+        padding-left: 0px !important;
+    }
+    .hero-text p{
+        padding-left: 0px !important;
+    }
+    .logo-class{
+        top: 18px !important;
+        left: 10px !important;
+    }
+    .navbar-nav{
+        padding-top: 30px !important;
+    }
+    .navbar-nav .nav-link{
+        font-size: 18px !important;
+        padding-bottom: 10px !important;
+    }
+    .nav.nav-pills{
+        margin: 0 auto;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+    }
+    .what-we-do-right.quality ul li{
+        height: 60px !important;
+    }
+    .what-i-do .heading{
+        text-align: left !important;
+    }
+    .what-we-do-right.quality ul li:nth-child(2) {
+        margin-left: 100px !important;
+    }
+    .what-we-do-right.quality ul li:nth-child(3) {
+        margin-left: 150px !important;
+    }
+    .col-lg-6.offset-1{
+        margin: 0 !important;
+    }
+    .hero-text h1{
+        font-size: 45px !important;
+        line-height: 50px !important;
+        padding-left:80px !important;
+    }
+    .what-we-do-right.quality ul li{
+        width: 100% !important;
+    }
+    .hero-text p {
+        font-size: 20px !important;
+        line-height: 32px !important;
+        max-width: 500px !important;
+        padding-top: 0px !important;
+        padding-left: 80px !important;
+    }
+    p {
+        font-size: 16px !important;
+        line-height: 25px !important;
+        max-width: 100% !important;
+        padding-top: 0px !important;
+    }
+    nav .navbar-brand img {
+        height: 40px !important;
+        padding-left: 30px !important;
+    }
+    .logo-class img{
+        height: 40px !important;
+    }
+    /* .hero-section{
+        background-position: top !important;
+    background-size: cover !important;
+    border-bottom: 5px solid #fff !important;
+    } */
+    section {
+        padding: 40px 10px !important;
+    }
+    .hero-text{
+    padding-top: 180px !important;
+    }
+    .about-img-main .about-img-up {
+        margin-right: 0px !important;
+        /* margin-bottom: 20px !important; */
+    }
+    .heading{
+        text-align: center;
+    }
+    .about-us .heading{
+        text-align: left;
+    }
+    .heading h1 br{
+        display: none;
+    }
+    .heading h1 {
+        font-size: 22px !important;
+        line-height: 30px !important;
+        max-width: 100% !important;
+        padding-top: 5px !important;
+        padding-bottom: 0px !important;
+    }
+    .quality ul li h3 {
+        margin-bottom: 0 !important;
+        padding-left: 10px !important;
+        font-size: 16px !important;
+    }
+    .quality ul{
+        margin-top: 20px !important;
+        padding-top: 0 !important;
+        padding-bottom: 0 !important;
+    }
+    .quality ul li{
+        margin-bottom: 20px !important;
+    width: 50%;
+    padding: 0px !important;
+    }
+    .quality ul li img{
+      height: 20px !important;
+    }
+    .about-us{
+        padding: 40px 15px !important;
+    }
+    .btn-primary {
+        border-radius: 10px !important;
+        padding: 13px 26px !important;
+        font-size: 15px !important;
+    }
+    .btn-secondary {
+        border-radius: 10px !important;
+        padding: 13px 26px !important;
+        font-size: 15px !important;
+    }
+    .about-btn-div .btn-secondary.ml-40{
+        margin-left: 10px !important;
+    }
+    .divider img{
+        height: 15px;
+        object-fit: cover;
+    }
+    .main-heading h1{
+        font-size: 45px !important;
+    }
+    .main-heading h5{
+        font-size: 15px !important;
+    }
+    .main-heading.mb-70{
+        margin-bottom: 30px !important;
+    }
+    .what-we-do-right.quality ul li {
+        border-radius: 10px !important;
+        justify-content: left !important;
+        padding-left: 20px !important;
+        width: 70% !important;
+        margin-left: 50px !important;
+    }
+    .what-i-do{
+        padding-bottom: 0 !important;
+    }
+    .portfolio .col-lg-6.d-flex{
+        order: 1;
+    }
+    .portfolio .col-lg-12{
+        order: 2;
+    }
+    .portfolio .mb-70 {
+        margin-bottom: 30px;
+    }
+    .portfolio .nav .nav-item:nth-child(2),
+    .portfolio .nav .nav-item:nth-child(4){
+        margin: 0px 20px 20px 10px !important;
+
+    }
+    .portfolio .nav .nav-item:nth-child(4){
+        margin-right: 0px !important;
+    }
+    .portfolio .tab-content{
+        margin-top: 0 !important;
+    }
+    .portfolio .tab-content .portfolio-img-div{
+        width: calc(50% - 18px) !important;
+        margin: 8px 9px !important;
+    }
+    .portfolio .tab-content{
+        padding: 0 !important;
+    }
+    .portfolio .tab-content .portfolio-img-div{
+        height: 250px !important;
+    }
+    .portfolio .nav .nav-item {
+        margin: 0px 10px 20px 0px !important;
+        width: calc(50% - 10px) !important;
+
+    }
+    .portfolio .nav .nav-item .nav-link{
+        width: 100% !important;
+    }
+    .img-placeholder{
+        width: 80% !important;
+        height: 60% !important;
+    }
+    .img-placeholder i {
+        height: 40px !important;
+        right: -10px !important;
+        top: -10px !important;
+        width: 40px !important;
+    }
+    .testimonials .mb-70{
+        margin-bottom: 30px !important;
+    }
+      .testimonials .display-desktop{
+        display: none !important;
+      }
+      .testimonials .display-mobile{
+        display: block !important;
+      }
+      form .display-desktop{
+        display: none !important;
+      }
+      .t-div.two{
+        margin-top: 0 !important;
+      }
+      .t-div .t-up {
+        height: 110px !important;
+        border-radius: 20px !important;
+        padding: 15px !important;
+        padding-top: 5px !important;
+        padding-bottom: 0 !important;
+    }
+    .t-div .t-up-left {
+        padding-top: 5px !important;
+    }
+    .t-div .t-up-left h4 {
+        font-size: 16px !important;
+        margin-bottom: 0px !important;
+    }
+    .t-div .t-up-right{
+        width: 100px !important;
+    }
+    .t-div .t-up-left span {
+        font-size: 13px !important;
+    }
+    .t-div .t-down{
+        padding: 15px !important;
+    }
+    .t-div{
+        height: 250px !important;
+        margin: 0 auto;
+    }
+    .testimonials {
+        padding-bottom: 80px !important;
+    }
+    .owl-theme .owl-dots {
+        top: 250px !important;
+        transform: translate(-50%, 50%);
+        left: 50% !important;
+        width: 100% !important;
+    }
+    .contactus .mb-70{
+        margin-bottom: 30px !important;
+    }
+    .contact-bg{
+        height: 466px !important;
+        background-size: cover !important;
+        background-position: right !important;
+        margin-bottom: 30px;
+    }
+    form .form-control {
+        height: 60px !important;
+        background: #FFFFFF;
+        border-radius: 10px;
+        padding: 13px !important;
+        line-height: 0 !important;
+        margin-bottom: 15px !important;
+    }
+    form #commentform {
+        height: 100px !important;
+        border-radius: 10px !important;
+        margin-bottom: 15px !important;
+    }
+    form .btn{
+        width: 100% !important;
+    }
+    footer .d-flex{
+        display: block !important;
+    }
+    footer {
+        padding: 15px 0 !important;
+    }
+    footer ul li i{
+        font-size: 25px !important;
+    }
+    footer ul li a img{
+        height: 25px !important;
+        width: auto;
+    }
+    footer ul li:nth-child(2) i {
+        margin: 0px 10px !important;
+    }
+    footer span {
+        font-size: 15px !important;
+        padding-bottom: 10px !important;
+        display: block !important;
+    }
+    footer ul{
+        justify-content: center;
+        padding-left: 0 !important;
+    }
+    footer .d-flex.justify-content-between{
+        text-align: center !important;
+    }
+    .hero-section{
+        padding-bottom: 100px !important;
+    }
+    .about-us .col-lg-5.col-sm-6{
+        margin: auto;
+    }
+
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .img-placeholder{
+        height: 60% !important;
+        width: 60% !important;
+    }
+    .hero-text h1 {
+        font-size: 70px !important;
+        line-height: 75px !important;
+    }
+    .navbar {
+        padding-left: 110px !important;
+    }
+    nav .navbar-brand img{
+        height: 45px !important;
+        padding-left: 0px !important;
+    }
+    .logo-class img{
+        height: 40px !important;
+    }
+    nav ul li {
+        font-size: 15px !important;
+        padding-right: 20px !important;
+    }
+    .portfolio .tab-content .portfolio-img-div{
+        height: 210px !important;
+    }
+    section{
+        padding: 100px 20px !important;
+    }
+    .left-fixed{
+        width: 80px !important;
+    }
+    .what-we-do-right.quality ul li:nth-child(2) {
+        margin-left: 50px !important;
+    }
+    .what-we-do-right.quality ul li:nth-child(3) {
+        margin-left: 100px !important;
+    }
+    .col-lg-6.col-sm-6.offset-1{
+        margin-left: 30px !important;
+    }
+    .about-us .btn-secondary{
+        margin-left: 5px !important;
+    }
+    .quality ul li {
+        margin-bottom: 25px !important;
+        padding: 0px 10px !important;
+    }
+    .quality ul li h3 {
+        padding-left: 10px !important;
+        font-size: 20px !important;
+    }
+    .col-lg-5.col-sm-6{
+        display: flex;
+        align-items: center;
+    }
+    .quality ul li{
+        height: 100px;
+    }
+
+ }
+ @media (min-width: 1200px) and (max-width: 1422.98px) {
+    .hero-text h1 {
+        font-size: 70px !important;
+        line-height: 75px !important;
+    }
+    .navbar {
+        padding-left: 110px !important;
+    }
+    nav .navbar-brand img{
+        height: 50px !important;
+        padding-left: 0px !important;
+    }
+    .logo-class {
+        top: 40px !important;
+    }
+    .logo-class img{
+        height: 50px !important;
+    }
+    nav ul li {
+        font-size: 18px !important;
+        padding-right: 30px !important;
+    }
+    .portfolio .tab-content .portfolio-img-div{
+        height: 270px !important;
+    }
+    section{
+        padding: 100px 20px !important;
+    }
+    .left-fixed{
+        width: 80px !important;
+    }
+    .what-we-do-right.quality ul li:nth-child(2) {
+        margin-left: 50px !important;
+    }
+    .what-we-do-right.quality ul li:nth-child(3) {
+        margin-left: 100px !important;
+    }
+    .col-lg-6.col-sm-6.offset-1{
+        margin-left: 30px !important;
+    }
+    .about-us .btn-secondary{
+        margin-left: 5px !important;
+    }
+    .quality ul li {
+        margin-bottom: 25px !important;
+        padding: 0px 10px !important;
+    }
+    .quality ul li h3 {
+        padding-left: 10px !important;
+        font-size: 20px !important;
+    }
+    .col-lg-5.col-sm-6{
+        display: flex;
+        align-items: center;
+    }
+    .quality ul li{
+        height: 100px;
+    }
+
+ }
+
